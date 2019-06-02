@@ -18,7 +18,7 @@ Wir alle brauchen Wärme und Strom.
 Wir haben die Technik (#Solar, #Wind, #Biogas, #Pyrolse, #PowerToGas, ...) Energie auf anderen Wegen herzustellen.
 
 Ich wünsche mir, dass wir unsere Energie so effizient und nachhaltig wie möglich gewinnen und verbrauchen. 
-Gemeinsam sammeln wir die Biomasse, deren Asche unsere [#TeraPreta](https://de.wikipedia.org/wiki/Terra_preta) wachsen lässt.
+Gemeinsam sammeln wir die Biomasse, deren Asche unsere [#TerraPreta](https://de.wikipedia.org/wiki/Terra_preta) wachsen lässt.
 Gemeinsam speißen wir mit unseren Solarzellen und Windrädern die MicroGrids eines intellegenten Stromnetzes.
 
 ## Infrastrukturwende
@@ -37,6 +37,7 @@ tba
 * Teilen macht Spass und glücklicher
 * Qualität wird wieder zum Ideal
 * Reparieren macht Spass und schlau
+* MycoTech, BioTech, IoT, DIY
 
 ## Aufklärung 2.0 - der Abschnitt wo es um die Gesellschaft geht
 tba
@@ -46,6 +47,7 @@ tba
 * im Scheitern liegt die Chance zu lernen
 * Open Source und Open Access bestimmt die Wissenschaft
 * jeder ist auf irgendetwas neugierig
+* jeder kann coden lernen
 * Nudging ist nur erlaubt, wenn alle darüber alles wissen können, wenn sie wollten
 * produktive Kreativität und produktive Langeweile wie Huhn und Ei
 
