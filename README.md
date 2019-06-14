@@ -11,7 +11,7 @@ Wir haben die Technik ([#Permaculture](https://de.wikipedia.org/wiki/Permakultur
 
 Ich wünsche mir, zur Entspannung regelmäßig ein bisschen zu gärtnern, mit meiner Familie und unseren Freunden, aber auch mit meinen noch unbekannten Nachbarn. 
 Gemeinsam im öffentlichen Raum, pflegen wir Obst und Gemüse, das für alle da ist. 
-Gemeinsam lernen wir dabei täglich mit einander besser auszukommen.
+Gemeinsam lernen wir dabei täglich miteinander besser auszukommen.
 
 ## Energiewende
 Wir alle brauchen Wärme und Strom.
