@@ -55,4 +55,4 @@ tba
 -----
 Wichtig ist es, den ersten Schritt in diese Richtung gemeinsam entschlossen zu gehen.
 
-Alles andere ist nur noch Optimierung.
+Alles weitere ist nur noch Optimierung.
